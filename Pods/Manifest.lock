@@ -1,0 +1,43 @@
+PODS:
+  - Alamofire (5.4.2)
+  - FBSDKCoreKit (9.2.0):
+    - FBSDKCoreKit/Basics (= 9.2.0)
+    - FBSDKCoreKit/Core (= 9.2.0)
+  - FBSDKCoreKit/Basics (9.2.0)
+  - FBSDKCoreKit/Core (9.2.0):
+    - FBSDKCoreKit/Basics
+  - FBSDKShareKit (9.2.0):
+    - FBSDKShareKit/Share (= 9.2.0)
+  - FBSDKShareKit/Share (9.2.0):
+    - FBSDKCoreKit (~> 9.2.0)
+  - Kingfisher (6.3.0)
+  - SwiftyJSON (5.0.1)
+  - youtube-ios-player-helper (1.0.3)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.2)
+  - FBSDKShareKit
+  - Kingfisher (~> 6.0)
+  - SwiftyJSON
+  - youtube-ios-player-helper (~> 1.0.3)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - FBSDKCoreKit
+    - FBSDKShareKit
+    - Kingfisher
+    - SwiftyJSON
+    - youtube-ios-player-helper
+
+SPEC CHECKSUMS:
+  Alamofire: bfbc4c2fe5909b1d94fb4ef2277c6b3727ef5dae
+  FBSDKCoreKit: dace5abafc2fd9272733e6d027bcf18102712117
+  FBSDKShareKit: 1210ece9e8f516ef0bb40ac329929a2874aef274
+  Kingfisher: 6c3df386db71d82c0817a429d2c9421a77396529
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
+  youtube-ios-player-helper: 0185c57db23c80d63d6ca11251d110abb8a4ca61
+
+PODFILE CHECKSUM: 993570f7c85d730b736e1157862f2d09b8f7c11f
+
+COCOAPODS: 1.10.1
