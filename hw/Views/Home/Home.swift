@@ -92,7 +92,7 @@ struct Home: View {
                     
                 }
                 .padding(.horizontal)
-                .navigationBarTitle("USC Films")
+                .navigationBarTitle("MY Films")
                 .toolbar {
                 ToolbarItem(placement: .navigationBarTrailing) {
                     Button("Movies") {
